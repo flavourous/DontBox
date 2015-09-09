@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "DontBox", "DontBox\DontBox.shproj", "{3BC6E71B-A5BF-4B82-A484-E868AAD3EEED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DontBox.WPF", "DontBox.WPF\DontBox.WPF.csproj", "{04ED8722-8E67-4384-A2B0-F88FE6FE0D68}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		DontBox\DontBox.projitems*{3bc6e71b-a5bf-4b82-a484-e868aad3eeed}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04ED8722-8E67-4384-A2B0-F88FE6FE0D68}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{04ED8722-8E67-4384-A2B0-F88FE6FE0D68}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{04ED8722-8E67-4384-A2B0-F88FE6FE0D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04ED8722-8E67-4384-A2B0-F88FE6FE0D68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
